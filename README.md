@@ -24,7 +24,7 @@
 
 <br>
 <code>
-  Hi, My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
+  Hi, My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer i like to work in python 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
 </code>
 <br><br>
 
@@ -46,9 +46,7 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-
 </p>
