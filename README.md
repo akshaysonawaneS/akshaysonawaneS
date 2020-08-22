@@ -18,7 +18,7 @@
 
 <br>
 <code>
-  My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer i like to work in python 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
+  My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer and I like to work in python 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
 </code>
 <br><br>
 
