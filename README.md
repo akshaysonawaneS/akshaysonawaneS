@@ -14,11 +14,11 @@
 </a>
 <br>
 
-### I am Akshay Sonawane
+### Hi There
 
 <br>
 <code>
-  Hi, My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer i like to work in python 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
+  My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer i like to work in python 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
 </code>
 <br><br>
 
