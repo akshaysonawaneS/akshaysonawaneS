@@ -22,12 +22,11 @@
 
 ### I am Akshay Sonawane
 
-
-
+<br>
 <code>
   Hi, My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
 </code>
- 
+<br><br>
 
 <p>
 <!--   <a href="https://github.com/onimur/handle-path-oz">
@@ -37,8 +36,8 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
