@@ -43,6 +43,12 @@
   <br />
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+<br>
+<p>
+ <a href="https://github.com/onimur/handle-path-oz">
+     <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=akshaysonawaneS&show_icons=true&hide_border=true&hide=stars&count_private=true" />	
+  </a>
+</p>
 
 ### ✔️ What I am going to learn next
 - JavaScript
@@ -50,8 +56,3 @@
 - Angular
 - Express.js
 
-<p>
- <a href="https://github.com/onimur/handle-path-oz">
-     <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=akshaysonawaneS&show_icons=true&hide_border=true&hide=stars&count_private=true" />	
-  </a>
-</p>
