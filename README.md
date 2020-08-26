@@ -22,9 +22,9 @@
 <br><br>
 
 <p>
-   <a>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS" />
-  </a> 
+  <div>
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact" />
+ </div> 
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
