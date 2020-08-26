@@ -21,7 +21,7 @@
 </code>
 <br><br>
 
-
+<p>
   <div style="width=50%>
   <a herf="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact" />
