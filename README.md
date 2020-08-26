@@ -22,11 +22,10 @@
 <br><br>
 
 <p>
-  <div style="width=50%>
-  <a herf="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact" />
- </div>
- </a>
+  <a href="https://github.com/onimur/handle-path-oz">
+   
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=akshaysonawaneS&show_icons=true&hide_border=true" />
+  </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
