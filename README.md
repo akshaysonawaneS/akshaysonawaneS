@@ -49,3 +49,9 @@
 - ReactJS
 - Angular
 - Express.js
+
+<p>
+ <a href="https://github.com/onimur/handle-path-oz">
+     <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=akshaysonawaneS&show_icons=true&hide_border=true&hide=stars&count_private=true" />	
+  </a>
+</p>
