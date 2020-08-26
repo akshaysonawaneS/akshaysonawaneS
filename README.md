@@ -44,6 +44,7 @@
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 <br/>
+
 ### ✔️ What I am going to learn next
 - JavaScript
 - ReactJS
