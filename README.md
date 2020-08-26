@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact" />
 </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
