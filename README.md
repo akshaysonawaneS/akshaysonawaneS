@@ -22,7 +22,7 @@
 <br><br>
 
 <p>
-  <div style="width=50%;">
+  <div style="width=40%; height=20%;">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact" />
  </div> 
   
