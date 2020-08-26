@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact&card_width=1" />	
+     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=5" />	
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
