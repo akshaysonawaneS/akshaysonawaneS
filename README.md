@@ -29,7 +29,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
