@@ -22,7 +22,6 @@
 <br><br>
 
 <p>
-  <br>
   <a href="https://github.com/onimur/handle-path-oz">
      <img width="49%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysonawaneS&layout=compact&hide_border=true" />	
   </a>
@@ -44,7 +43,7 @@
   <br />
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
+<br/>
 ### ✔️ What I am going to learn next
 - JavaScript
 - ReactJS
