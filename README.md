@@ -1,18 +1,18 @@
 # Welcome to my github! <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
 
- <a href="https://twitter.com/its_mysterio">
+ <a target="_blank" href="https://twitter.com/its_mysterio">
   <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/akshay-sonawane-415542172">
-  <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="https://linkedin.com/in/akshay-sonawane-415542172">
+  <img align="left"  alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/akshaysonawaneS">
+<a target="_blank" href="https://github.com/akshaysonawaneS">
   <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="#">
+<a target="_blank" href="#">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://akshaysonawanes.github.io">
+<a target="_blank" href="https://akshaysonawanes.github.io">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/876/876810.svg" />
 </a>
 <br>
