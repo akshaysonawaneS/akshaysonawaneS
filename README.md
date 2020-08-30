@@ -12,7 +12,7 @@
 <a href="#">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://akshaysonawane.github.io">
+<a href="https://akshaysonawanes.github.io">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/876/876810.svg" />
 </a>
 <br>
