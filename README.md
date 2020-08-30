@@ -1,6 +1,6 @@
 # Welcome to my github! <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
 
- <a target="_blank" href="https://twitter.com/its_mysterio">
+ <a target="_blanks" href="https://twitter.com/its_mysterio">
   <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a target="_blank" href="https://linkedin.com/in/akshay-sonawane-415542172">
