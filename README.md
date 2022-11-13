@@ -13,7 +13,7 @@
   <img align="left" alt="Akshay's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://akshaysonawanes.github.io">
-  <img align="left" alt="Akshay's Portfolio" width="22px" src="https://image.flaticon.com/icons/svg/876/876810.svg" />
+  <img align="left" alt="Akshay's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/googlechrome.svg" />
 </a>
 <br>
 
