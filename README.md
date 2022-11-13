@@ -20,7 +20,7 @@
 ### Hi There
 <br>
 <code>
-  My name is Akshay Sonawane. I am a Computer Science BE college student. I'm also a competitive programmer and I like to work in python 🤩 🎈. In my repos you'll find projects created using following technologies and framework...
+ Seeking a challenging position in Software Applications with emphasis using Java, Spring in a growth-oriented organization where my skills and experience will be utilized to their full potential.
 </code>
 <br><br>
 
